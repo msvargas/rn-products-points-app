@@ -10,6 +10,5 @@ This is a simple app that allows you to show your products and points to your cu
 
 ### Demo
 
-<p align="center">
-    <img src="screenshots/demo.gif" alt="Demo App" width="680"/>
-</p>
+![](https://github.com/msvargas/rn-products-points-app/blob/main/screenshots/demo.gif)
+
