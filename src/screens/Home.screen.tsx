@@ -152,6 +152,7 @@ export default function HomeScreen() {
             ?.map((product, index) => (
               <TouchableOpacityBox
                 key={product.id}
+                accessibilityRole="button"
                 onPress={() => {
                   // @ts-ignore bad type
                   navigation.navigate('ProductDetails', {product});
