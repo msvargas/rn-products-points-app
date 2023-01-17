@@ -10,4 +10,7 @@ This is a simple app that allows you to show your products and points to your cu
 
 ### Demo
 
-./screenshots/demo.mp4
+<video controls width="480">
+    <source src=""/screenshots/demo.mp4""
+            type="video/mp4">
+</video>
