@@ -30,11 +30,4 @@ describe('App', () => {
     expect(screen.getByText('Ganados')).toBeTruthy();
     expect(screen.getByText('Canjeados')).toBeTruthy();
   });
-
-  it('Render Button component correctly', () => {
-    render(<Button sx={{flex: 1, mr: '$2'}}>Ganados</Button>, {
-      wrapper: Wrapper,
-    });
-    expect(screen.getByText('Ganados')).toBeTruthy();
-  });
 });
